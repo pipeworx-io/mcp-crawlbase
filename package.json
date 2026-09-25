@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-crawlbase",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Crawlbase MCP — wraps the Crawlbase Crawling API (crawlbase.com, formerly",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-277026115a9495a7e74bddc8a516443c3b9fb6821a43be5e23fe46a0bb6d18f4",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-8b7c6d238737dddfc8d08503e86fbb25d8c222dd3e16a9bfcbc3c8389a4af1a4",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
