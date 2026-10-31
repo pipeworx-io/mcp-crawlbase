@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-crawlbase",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Crawlbase MCP — wraps the Crawlbase Crawling API (crawlbase.com, formerly ProxyCrawl). One endpoint powers everything: rotating residential/datacenter proxies, server-side anti-bot solving (Cloudflare, DataDome, hCaptcha, …), optional headless-browser rendering, screenshots, and a library of named…",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "crawlbase",
     "gatewaySlug": "crawlbase",
-    "sourceHash": "v1-9aa90a2c6bdca9823a859264dac4aa359b66acc82928a84bcfb4b070bf1f8153",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-a1c654303f9f1a0529d1f339ecd08835671cdbf3a649316908ff43a09f6fc837",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
